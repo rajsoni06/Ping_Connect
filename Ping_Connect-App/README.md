@@ -4,10 +4,7 @@
 </div>
 
 ### Express yourself and connect with the world on Ping Connect,where thoughts come alive!
-----------------
-
-> ### Demo 
-https://www.loom.com/share/b79f256d26b34736a5bf160a8487def6
+-------------------
 
 > ### Features
 * Authentication
